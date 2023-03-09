@@ -1,0 +1,5 @@
+#+TITLE: Templated Image Overlay
+#+AUTHOR: jvdydev
+
+=Templated IMage Overlay= (or =timo= for short) allows generation of images with overlay text from a templated format.
+This can be used e.g. to generate schedule graphics or any other branding images that usually retain their background and only have changing overlayed information.
